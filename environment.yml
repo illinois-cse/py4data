@@ -1,0 +1,19 @@
+channels:
+- conda-forge
+- defaults
+
+dependencies:
+- matplotlib
+- numpy
+- scipy
+- ipywidgets
+- sympy
+- scikit-image
+- pandas
+- seaborn
+- bokeh
+- beautifulsoup4
+- scikit-learn
+- colormath
+- astropy
+- pylab
